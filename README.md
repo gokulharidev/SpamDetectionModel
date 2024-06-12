@@ -15,3 +15,6 @@
 
  1. Clone the repository
  2. Run the script using `python main.py`
+
+#### help
+This mini project is done with the help of microsoft Copliot
